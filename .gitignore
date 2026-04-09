@@ -1,0 +1,24 @@
+# Backend .NET
+backend/bin/
+backend/obj/
+*.user
+*.suo
+*.lock.json
+
+# Frontend Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+frontend/.vite/
+
+# IDE / OS
+.vs/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+**/logs/
