@@ -73,7 +73,7 @@ Mémoire vive (ConcurrentDictionary) – aucun SGBD requis.
 
 1️⃣ Cloner le dépôt
 
-git clone https://github.com/votre-compte/OrderManagementApp.git
+git clone https://github.com/seif2018/OrderManagementApp.git
 cd OrderManagementApp
 
 2️⃣ Lancer l’API
