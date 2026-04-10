@@ -90,7 +90,7 @@ cd frontend
 npm install
 npm run dev
 
-L’application Angular tourne sur http://localhost:5173
+L’application React tourne sur http://localhost:5173
 
 ---
 
